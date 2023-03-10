@@ -1,0 +1,22 @@
+{
+  "name": "appv1",
+  "version": "1.0.0",
+  "description": "easybuy app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tezerac/APPV1.git"
+  },
+  "author": "Tezera Y Chernet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tezerac/APPV1/issues"
+  },
+  "homepage": "https://github.com/tezerac/APPV1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
